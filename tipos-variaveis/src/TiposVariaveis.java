@@ -18,5 +18,8 @@ public class TiposVariaveis {
         System.out.println(numero);
 
         final double VALOR_DE_PI = 3.14;
+
+        //so para utilizar essas variaveis 
+        System.out.println(meuNome + "\n" + salarioMinimo + "\n" + numeroCurto + "\n" + numeroNormal + "\n" + numeroCurto2 + "\n" + VALOR_DE_PI);
     }
 }
