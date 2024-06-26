@@ -4,8 +4,8 @@
 <h2 align="center">Ordem de criação dos arquivos/projetos</h2>
 <div align="center">
 • ExemploFor -> Exemplo da Estruturas de Repetição FOR<br>
-•  -> Exemplo da Estruturas de Repetição <br>
-•  -> Exemplo da Estruturas de Repetição <br>
+• ExemploForArray -> Exemplo da Estruturas de Repetição FOR em Array<br>
+• ExemploForEachArray -> Exemplo da Estruturas de Repetição FOR EACH em Array<br>
 •  -> Exemplo da Estruturas de Repetição <br>
 •  -> Exemplo da Estruturas de Repetição <br>
 • 
