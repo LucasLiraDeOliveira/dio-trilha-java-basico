@@ -6,8 +6,8 @@
 • ExemploFor -> Exemplo da Estruturas de Repetição FOR<br>
 • ExemploForArray -> Exemplo da Estruturas de Repetição FOR em Array<br>
 • ExemploForEachArray -> Exemplo da Estruturas de Repetição FOR EACH em Array<br>
-•  -> Exemplo da Estruturas de Repetição <br>
-•  -> Exemplo da Estruturas de Repetição <br>
-• 
+• ExemploBreakContinue -> Exemplo para explicar o BREAK e o CONTINUE em Estruturas de Repetição <br>
+• ExemploWhile -> Exemplo da Estruturas de Repetição WHILE <br>
+• ExemploDoWhile -> Exemplo da Estruturas de Repetição DO WHILE
 </div>
 
