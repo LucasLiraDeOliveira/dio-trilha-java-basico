@@ -2,8 +2,7 @@
 Desafio de código do Bootcamp **Backend com Java** da **DIO**, etapa **Dominando  a Linguagem de Programação Java** onde simula algumas funcionalidades de um banco.
 
 
-# Desafio 1
-## SimulacaoBancaria.java
+# Desafio 1 - SimulacaoBancaria.java
 
 ## Descrição
 Programa simples em Java para simular operações bancárias básicas. A aplicação permite ao usuário realizar depósitos, saques e consultar o saldo em uma conta bancária virtual.
@@ -58,8 +57,7 @@ A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectiva
 
 
 
-# Desafio 2
-## VerificadorNumeroConta.java
+# Desafio 2 - VerificadorNumeroConta.java
 
 ## Descrição
 Você está desenvolvendo um programa simples em Java para verificar se um número de conta bancária é válido. O número da conta deve ter exatamente 8 dígitos.
@@ -102,8 +100,7 @@ A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectiva
 
 
 
-# Desafio 3
-## VerificadorElegibilidadeConta.java
+# Desafio 3 - VerificadorElegibilidadeConta.java
 
 ## Descrição
 Você está desenvolvendo um programa simples em Java para verificar se um cliente é elegível para criar uma conta bancária. A condição é que o cliente deve ter pelo menos 18 anos de idade.
@@ -146,8 +143,7 @@ A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectiva
 
 
 
-# Desafio 4
-## VerificacaoChequeEspecial
+# Desafio 4 - VerificacaoChequeEspecial.java
 
 ## Descrição
 Você está desenvolvendo um programa simples em Java para verificar se uma conta bancária ultrapassou o limite do cheque especial. A aplicação solicitará ao cliente que informe o saldo atual da conta bancária. Em seguida, o programa pedirá o valor de um saque que o cliente deseja realizar.
@@ -195,8 +191,7 @@ A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectiva
 
 
 
-# Desafio 5
-## ControleSimplesDeSaques
+# Desafio 5 - ControleSimplesDeSaques.java
 
 ## Descrição
 Você está desenvolvendo um programa simples em Java para auxiliar um cliente a realizar saques de uma conta bancária. O cliente pode fazer saques até atingir um limite diário predefinido.
